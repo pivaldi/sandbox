@@ -1,1 +1,1 @@
-{"v":1,"type":"add_label","at":"2026-10-23T13:44:47.57594727Z","author":"pivaldi \u003cgit@ivaldi.me\u003e","value":"test/a"}
+{"v":1,"type":"tracker_seen","at":"2026-10-23T13:44:53.927329919Z","author":"pivaldi \u003cgit@ivaldi.me\u003e","title":"New feat A","labels":["feature","test/a"],"updated":"2026-10-23T13:44:53Z"}
